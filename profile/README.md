@@ -1,24 +1,21 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=bb4243&height=250&section=header&text=BNC%202기%20입사%20전%20교육&fontSize=60&fontColor=ffffff)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f03a3a,100:dfb6a2&height=250&section=header&text=Publishing%20Training&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=With%20FE%20Developer&descAlignY=51&descAlign=77)
+   
+   ### 📚What to learn📚
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+   <br/><br/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 
-### 📚Stack to learn📚
+   <h2></h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-
-### 📚학습 기간📚
-**07.15 ~ 08.26 총 6주간 진행**<br/>
-[1주차] 07.15 ~ 07.19 <br/>
-[2주차] 07.22 ~ 07.26 <br/>
-[3주차] 07.29 ~ 08.02 <br/>
-[4주차] 08.05 ~ 08.09 <br/>
-[5주차] 08.12 ~ 08.16 <br/>
-[6주차] 08.19 ~ 08.23 <br/>
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=bb4243&reversal=false&section=footer)
-
+   ### 📚Repositorys📚
+  <a href="https://github.com/BNC-2nd-publishing-training/to-do-list">to-do-list<a/>
+   
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f03a3a,100:dfb6a2&reversal=false&section=footer)
 </div>
